@@ -1,1 +1,1 @@
-#extract R peak series from ECG signal
+extract R peak series from ECG signal
